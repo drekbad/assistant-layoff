@@ -1,4 +1,4 @@
-# assistant-layoff #
+<center> # assistant-layoff # </center>
 ### Fire all your OpenAI Assistant API assistants... Maybe you ALSO mistakenly created 822 assistants. ###
 ---
 After accidentally making 822 OpenAI Assistant API assistants, I realized I misinterpreted the intended assistant creation and management incorrectly.
