@@ -6,7 +6,7 @@ Since OpenAI has not provided a better way to manage assistants, you may only re
 
 This script requests your authorization token, easily retrieved via request headers with an authenticated OpenAI session.
 It will find all assistants and group them by their name, giving a readout of all the names and their counts.
-Delete by name or delete all at once. The progress will be indicated by 25% increments until done.
+Delete by name or delete all at once. The progress will be indicated by 25 percent increments until done.
 ---
 ### Usage: ###
 python script_name.py [options]
