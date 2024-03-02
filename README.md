@@ -1,9 +1,7 @@
 # assistant-layoff #
 #### Fire all your OpenAI Assistant API assistants... Maybe you ALSO mistakenly created 822 assistants.
 
-<p align="center" width="100%">
-    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://cdn4.whatculture.com/images/2021/04/5e0ece585db5a418-600x338.jpg)">
-</p>
+<div style="text-align:center"><img src="https://i.stack.imgur.com/RJj4x.png](https://cdn4.whatculture.com/images/2021/04/5e0ece585db5a418-600x338.jpg" /></div>
 
 ---
 After accidentally making 822 OpenAI Assistant API assistants, I realized I misinterpreted the intended assistant creation and management incorrectly.
